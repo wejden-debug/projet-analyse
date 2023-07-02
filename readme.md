@@ -19,3 +19,5 @@ This dataset consists of ~600 songs that were in the top songs of the year from 
 | "Hey, Soul Sister"   | Train    | neo mellow      |   2010 |    97 |     89 |     67 |   -4 |      8 |    80 |   217 |      19 |      4 |    83 |
 | Love The Way You Lie | Eminem   | detroit hip hop |   2010 |    87 |     93 |     75 |   -5 |     52 |    64 |   263 |      24 |     23 |    82 |
 
+
+# Data dictionary
